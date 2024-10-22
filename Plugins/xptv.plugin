@@ -1,0 +1,277 @@
+#!name = XPTV
+#!desc = XPTV视频源分流。
+#!author = fangkuia[https://github.com/fangkuia/XPTV]
+#!icon = https://raw.githubusercontent.com/bautistaclay/Tool/master/Icons/app/xptv.png
+#!date = 2024-10-01 15:35
+
+[Rule]
+# 玩偶哥哥
+DOmaster-SUFFIX, wogg.link, DIRECT
+DOmaster-SUFFIX, wogg.xyz, DIRECT
+DOmaster-SUFFIX, xxooo.cf, DIRECT
+DOmaster-KEYWORD, wogg, DIRECT
+
+# 玩偶表哥
+DOmaster-KEYWORD, wobge.run, DIRECT
+
+# 小纸条
+DOmaster-SUFFIX, gitcafe.net, DIRECT
+
+# jojo
+DOmaster-SUFFIX, jiohub.top, DIRECT
+
+# 阿里小站
+DOmaster-SUFFIX, pan666.net, DIRECT
+DOmaster-KEYWORD,pan666, DIRECT
+
+# 云盘资源
+DOmaster-KEYWORD,yunpan, DIRECT
+DOmaster-SUFFIX, yunpan1.cc, DIRECT
+
+# 厂长资源
+DOmaster-SUFFIX, cz233.com, DIRECT
+DOmaster-SUFFIX, czys.top, DIRECT
+DOmaster-SUFFIX, czzy22.com, DIRECT
+DOmaster-SUFFIX, czzy66.com, DIRECT
+DOmaster-SUFFIX, czzy77.com, DIRECT
+DOmaster-SUFFIX, czzy88.com, DIRECT
+DOmaster-KEYWORD, czys, DIRECT
+DOmaster-KEYWORD, czzy, DIRECT
+
+# 在线之家
+DOmaster-SUFFIX, zxzj.pro, DIRECT
+DOmaster-SUFFIX, zxzja.com, DIRECT
+DOmaster-SUFFIX, zxzjhd.com, DIRECT
+DOmaster-KEYWORD, zxzj, DIRECT
+
+# 低端影视
+DOmaster-SUFFIX, ddys.mov, DIRECT
+DOmaster-SUFFIX, ddys.pro, DIRECT
+DOmaster-KEYWORD, ddys, DIRECT
+
+# AGE动漫
+DOmaster-SUFFIX, agedm.org, DIRECT
+
+# 哔嘀影视
+DOmaster-SUFFIX, bdys10.com, DIRECT
+DOmaster-KEYWORD, bdys, DIRECT
+
+# 索尼资源
+DOmaster, snzypic.com, DIRECT
+DOmaster, v3.suonizy-youku.com, DIRECT
+DOmaster, v3.sxzyhuij.com, DIRECT
+DOmaster, v8.suonizy-youku.com, DIRECT
+DOmaster, v8.sxzyhuij.com, DIRECT
+DOmaster-SUFFIX, suoniapi.com, DIRECT
+
+# 非凡资源
+DOmaster-SUFFIX, ffzyapi.com, DIRECT
+
+# 红牛资源
+DOmaster-SUFFIX, hongniuzy2.com, DIRECT
+
+# 量子资源
+DOmaster-SUFFIX, lziapi.com, DIRECT
+
+# 快车资源
+DOmaster-SUFFIX, kczyapi.com, DIRECT
+
+# 三九影视
+DOmaster-SUFFIX, 39kan.com, DIRECT
+
+# 闪电资源
+DOmaster-SUFFIX, sdzyapi.com, DIRECT
+
+# 樱花资源
+DOmaster-SUFFIX, apiyhzy.com, DIRECT
+
+# 卧龙资源
+DOmaster-SUFFIX, wolongzyw.com, DIRECT
+
+# 飘花影院
+DOmaster-SUFFIX, ahjiuman.com, DIRECT
+
+# 虎牙资源
+DOmaster-SUFFIX, huyaapi.com, DIRECT
+
+# 百度资源
+DOmaster-SUFFIX, apibdzy.com, DIRECT
+
+# 飘零影院
+DOmaster-SUFFIX, p2100.net, DIRECT
+
+# 无尽资源
+DOmaster-SUFFIX, wujinapi.com, DIRECT
+
+# 速博资源
+DOmaster-SUFFIX, subocaiji.com, DIRECT
+
+# 乐视资源
+DOmaster-SUFFIX, leshizyapi.com, DIRECT
+
+# 魔都动漫
+DOmaster-SUFFIX, moduapi.cc, DIRECT
+
+# 最大资源
+DOmaster-SUFFIX, zuidazy.me, DIRECT
+
+# 奇虎资源
+DOmaster-SUFFIX, qhzyapi.com, DIRECT
+
+# 火狐资源
+DOmaster-SUFFIX, hhzyapi.com, DIRECT
+
+# 享看资源
+DOmaster-SUFFIX, xkanzy10.com, DIRECT
+
+# 新浪资源
+DOmaster-SUFFIX, xinlangapi.com, DIRECT
+
+# 快云资源
+DOmaster-SUFFIX, kuaiyunzy.com, DIRECT
+
+# 四圈资源
+DOmaster-SUFFIX, fenwe078.cf, DIRECT
+
+# 快看资源
+DOmaster-SUFFIX, kuaikanzy.net, DIRECT
+
+# 厂长&低端播放
+DOmaster, wxsnsencsvp.wxs.qq.com, DIRECT
+DOmaster-SUFFIX, ctyunxs.cn, DIRECT
+DOmaster-SUFFIX, cz01.site, DIRECT
+DOmaster-SUFFIX, fotile.com, DIRECT
+DOmaster-SUFFIX, larksuitecdn.com, DIRECT
+DOmaster-SUFFIX, pstatp.com, DIRECT
+DOmaster-SUFFIX, ugdtimg.com, DIRECT
+
+# 哔嘀播放
+DOmaster-SUFFIX, ibytedtos.com, DIRECT
+DOmaster-SUFFIX, ibyteimg.com, DIRECT
+DOmaster-SUFFIX, toutiao50.com, DIRECT
+
+# 网盘播放
+DOmaster, api.aliyundrive.com, DIRECT
+DOmaster, auth.aliyundrive.com, DIRECT
+DOmaster, drive-pc.quark.cn, DIRECT
+DOmaster, openapi.aliyundrive.com, DIRECT
+DOmaster-SUFFIX, alicloudccp.com, DIRECT
+DOmaster-SUFFIX, aliyundrive.asia, DIRECT
+DOmaster-KEYWORD, quark, DIRECT
+
+# 豆瓣封面
+DOmaster-SUFFIX, doubanio.com, DIRECT
+
+# 同步数据
+DOmaster, gateway.icloud.com, DIRECT
+
+# 杂七杂八的播放
+DOmaster, 3zj55vots.com, DIRECT
+DOmaster, 9t5af8lts.com, DIRECT
+DOmaster, c3.monidai.com, DIRECT
+DOmaster, d4y3409ts.com, DIRECT
+DOmaster, git.886.be, DIRECT
+DOmaster, gvideo.qpic.cn, DIRECT
+DOmaster, hey11.cjkypo.com, DIRECT
+DOmaster, hhmage.com, DIRECT
+DOmaster, hnts.ymuuy.com, DIRECT
+DOmaster, hnzy.bfvvs.com, DIRECT
+DOmaster, ikcdn01.ikzybf.com, DIRECT
+DOmaster, ikunzyapi.com, DIRECT
+DOmaster, img.lzzyimg.com, DIRECT
+DOmaster, media-hncs-fy-person.hn12oss.ctyunxs.cn, DIRECT
+DOmaster, n45lxpvts.com, DIRECT
+DOmaster, op.xn--it-if7c19g5s4bps5c.com, DIRECT
+DOmaster, pan.dy066.com, DIRECT
+DOmaster, ppvod01.blbtgg.com, DIRECT
+DOmaster, qchannelvideo.photo.qq.com, DIRECT
+DOmaster, r8qgyo0ts.com, DIRECT
+DOmaster, sf16-sg.larksuitecdn.com, DIRECT
+DOmaster, sss.image8899.net, DIRECT
+DOmaster, svip.picffzy.com, DIRECT
+DOmaster, tjdownload.pan.wo.cn, DIRECT
+DOmaster, top.1080pzy.co, DIRECT
+DOmaster, vip.ffzy-online6.com, DIRECT
+DOmaster, vip.ffzy-play3.com, DIRECT
+DOmaster, vip.ffzy-play5.com, DIRECT
+DOmaster, vip.ffzy-play9.com, DIRECT
+DOmaster, vip.ffzyread.com, DIRECT
+DOmaster, vip.ffzyread1.com, DIRECT
+DOmaster, vip.imgffzy.com, DIRECT
+DOmaster, vod2.kczybf.com, DIRECT
+DOmaster, www.imgikzy.com, DIRECT
+DOmaster, xinlangtupian.com, DIRECT
+DOmaster, yk7ynj4ts.com, DIRECT
+DOmaster-SUFFIX, 115.com, DIRECT
+DOmaster-SUFFIX, 13to.com, DIRECT
+DOmaster-SUFFIX, 4k-av.com, DIRECT
+DOmaster-SUFFIX, akamaized.net, DIRECT
+DOmaster-SUFFIX, aliyuncs.com, DIRECT
+DOmaster-SUFFIX, anfuns.org, DIRECT
+DOmaster-SUFFIX, bfengbf.com, DIRECT
+DOmaster-SUFFIX, bfikuncdn.com, DIRECT
+DOmaster-SUFFIX, bilfun.cc, DIRECT
+DOmaster-SUFFIX, centos.chat, DIRECT
+DOmaster-SUFFIX, cloudflarestorage.com, DIRECT
+DOmaster-SUFFIX, dandanplay.net, DIRECT
+DOmaster-SUFFIX, dsakf23665.com, DIRECT
+DOmaster-SUFFIX, esuxun.com, DIRECT
+DOmaster-SUFFIX, ho7k.com, DIRECT
+DOmaster-SUFFIX, huawei8.live, DIRECT
+DOmaster-SUFFIX, hw8.live, DIRECT
+DOmaster-SUFFIX, jiasu.buzz, DIRECT
+DOmaster-SUFFIX, m3u8.girigirilove.com, DIRECT
+DOmaster-SUFFIX, maimn.com, DIRECT
+DOmaster-SUFFIX, mcloud.139.com, DIRECT
+DOmaster-SUFFIX, mediap.svc.ms, DIRECT
+DOmaster-SUFFIX, mgtv.com, DIRECT
+DOmaster-SUFFIX, miyoushe.com, DIRECT
+DOmaster-SUFFIX, myqcloud.com, DIRECT
+DOmaster-SUFFIX, netease.com, DIRECT
+DOmaster-SUFFIX, nkvod.com, DIRECT
+DOmaster-SUFFIX, novipnoad.net, DIRECT
+DOmaster-SUFFIX, tc.qq.com, DIRECT
+DOmaster-SUFFIX, timizy.com, DIRECT
+DOmaster-SUFFIX, vod-qcloud.com, DIRECT
+DOmaster-SUFFIX, vvmlm.com, DIRECT
+DOmaster-SUFFIX, wegame.com.cn, DIRECT
+DOmaster-SUFFIX, whjzjx.cn, DIRECT
+DOmaster-SUFFIX, wjm.xpgtv.net, DIRECT
+DOmaster-SUFFIX, xhscdn.com, DIRECT
+DOmaster-SUFFIX, xingya.com.cn, DIRECT
+DOmaster-SUFFIX, xjqxz.top, DIRECT
+DOmaster-SUFFIX, xmcdn.com, DIRECT
+DOmaster-SUFFIX, yangkeduo.com, DIRECT
+DOmaster-SUFFIX, ykusu.ykusu, DIRECT
+DOmaster-SUFFIX, ywxohs.com, DIRECT
+DOmaster-SUFFIX, zaqohu.com, DIRECT
+DOmaster-KEYWORD, 49zyvideoplayurl, DIRECT
+DOmaster-KEYWORD, bttwo, DIRECT
+DOmaster-KEYWORD, cdnlz, DIRECT
+DOmaster-KEYWORD, duanjutt, DIRECT
+DOmaster-KEYWORD, feidaozy, DIRECT
+DOmaster-KEYWORD, ffzy, DIRECT
+DOmaster-KEYWORD, ghw9zwp5, DIRECT
+DOmaster-KEYWORD, hanjukankan, DIRECT
+DOmaster-KEYWORD, heimuer, DIRECT
+DOmaster-KEYWORD, hhplayer, DIRECT
+DOmaster-KEYWORD, hhuus, DIRECT
+DOmaster-KEYWORD, hhwenjian, DIRECT
+DOmaster-KEYWORD, hmrvideo, DIRECT
+DOmaster-KEYWORD, ikzybf, DIRECT
+DOmaster-KEYWORD, kuaiyun, DIRECT
+DOmaster-KEYWORD, lzcdn, DIRECT
+DOmaster-KEYWORD, media-oss, DIRECT
+DOmaster-KEYWORD, modujx, DIRECT
+DOmaster-KEYWORD, saohuo, DIRECT
+DOmaster-KEYWORD, simanuo, DIRECT
+DOmaster-KEYWORD, subaibaiys, DIRECT
+DOmaster-KEYWORD, suxun, DIRECT
+DOmaster-KEYWORD, tencent-1257389134.cos, DIRECT
+DOmaster-KEYWORD, thehanju, DIRECT
+DOmaster-KEYWORD, ts.com, DIRECT
+DOmaster-KEYWORD, v.cdnlz, DIRECT
+DOmaster-KEYWORD, vip.ffzy, DIRECT
+DOmaster-KEYWORD, vip.kuaikan, DIRECT
+DOmaster-KEYWORD, wangchuanxin, DIRECT
+DOmaster-KEYWORD, xlzyd, DIRECT
